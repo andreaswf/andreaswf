@@ -1,8 +1,7 @@
-## Hi there 👋
+### Hi 👋, I'm Andreas Fuglsang
+## A Data Scientist from Denmark
 
-# header
-
-## header2
+# header2
 <!--
 **andreaswf/andreaswf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -11,8 +11,9 @@ I have a passion for Machine Learning, AI and everything with data. Below are a 
 
 
 
-## Currently working on: 
-- A LLM project
+## Actively working on:
+- [Movie recommendations (currently knn implementations)](https://github.com/andreaswf/movie-recommender)
+- Experimenting with AI Agents
 
 
 ## About me

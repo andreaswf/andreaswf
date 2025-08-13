@@ -19,10 +19,10 @@ I have a passion for Machine Learning, AI and everything with data. Below are a 
 ## About me
 - Male
 - 29 years old
+- Master of Science (cand.scient.) in Data Science
 - Living in Odense 
 - Semi-professional ice hockey referee
 - Enyoy running and weight-lifting
-- I also have an education as a physiotherapist
 
 
 ## Contact Information

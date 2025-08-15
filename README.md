@@ -6,7 +6,7 @@ I have a passion for Machine Learning, AI and everything with data. Below are a 
 ## Projects
 - [NLP - Emotion Classifier of Tweets (TensorFlow)](https://github.com/andreaswf/nlp-emotion-classifier)
 - [Image Classification with the Cats and Dogs dataset (PyTorch)](https://github.com/andreaswf/cat-dog-image-classifier)
-- Image Classification of Skin Lesions (TensorFlow)
+- [Image Classification of Skin Lesions (TensorFlow)](https://github.com/andreaswf/skin-lesion-classification)
 - [Ice Hockey Officiating Statistics (EDA)](https://github.com/andreaswf/ice-hockey-referee-stats)
 
 

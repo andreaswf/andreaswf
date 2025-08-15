@@ -1,18 +1,19 @@
 # Hi 👋, I'm Andreas Fuglsang
 I'm a Data Scientist from Denmark, graduated at SDU during summer 2025.
-I have a passion for Machine Learning, AI and everything with data. Below are a few public repositories/projects.
+I have a passion for Machine Learning, AI and everything with data. Below are a few projects which I'm currently working on.
 
 
 ## Projects
 - [NLP - Emotion Classifier of Tweets (TensorFlow)](https://github.com/andreaswf/nlp-emotion-classifier)
 - [Image Classification with the Cats and Dogs dataset (PyTorch)](https://github.com/andreaswf/cat-dog-image-classifier)
+- Image Classification of Skin Lesions (TensorFlow)
 - [Ice Hockey Officiating Statistics (EDA)](https://github.com/andreaswf/ice-hockey-referee-stats)
 
 
 
 
 ## Actively working on:
-- [Movie recommendations (currently knn implementations)](https://github.com/andreaswf/movie-recommender)
+- [Movie recommendations (currently different knn implementations)](https://github.com/andreaswf/movie-recommender)
 - Experimenting with AI Agents
 
 

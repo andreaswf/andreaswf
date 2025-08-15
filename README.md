@@ -13,7 +13,7 @@ I have a passion for Machine Learning, AI and everything with data. Below are a 
 
 
 ## Actively working on:
-- [Movie recommendations (currently different knn implementations)](https://github.com/andreaswf/movie-recommender)
+- [Movie recommendations (A KNN implementation)](https://github.com/andreaswf/movie-recommender)
 - Experimenting with AI Agents
 
 

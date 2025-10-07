@@ -4,18 +4,15 @@ I have a passion for Machine Learning, AI and everything with data. Below are a 
 
 
 ## Projects
+### Actively working on
 - [RAG - Ice Hockey rules assistant](https://github.com/andreaswf/ice-hockey-rule-helper)
-- [NLP - Emotion Classifier of Tweets (TensorFlow)](https://github.com/andreaswf/nlp-emotion-classifier)
+- [NLP - Emotion Classifier of Tweets](https://github.com/andreaswf/nlp-emotion-classifier)
+
+### Shelfed for now
+- [Movie recommendations (A KNN implementation)](https://github.com/andreaswf/movie-recommender)
 - [Image Classification with the Cats and Dogs dataset (PyTorch)](https://github.com/andreaswf/cat-dog-image-classifier)
 - [Image Classification of Skin Lesions (TensorFlow)](https://github.com/andreaswf/skin-lesion-classification)
 - [Ice Hockey Officiating Statistics (EDA)](https://github.com/andreaswf/ice-hockey-referee-stats)
-
-
-
-
-## Actively working on:
-- [RAG - Ice Hockey rules assistant](https://github.com/andreaswf/ice-hockey-rule-helper)
-- [Movie recommendations (A KNN implementation)](https://github.com/andreaswf/movie-recommender)
 
 
 ## About me

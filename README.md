@@ -6,6 +6,7 @@ I have a passion for Machine Learning, AI and everything with data. Below are a 
 ## Projects
 ### Large projects
 - [RAG - Ice Hockey rules assistant](https://github.com/andreaswf/ice-hockey-rule-helper)
+- [Hospital waiting times dashboard](https://github.com/andreaswf/hospital-visits-dashboard)
     
 ## Medium Projects
 - [NLP - Emotion Classifier of Tweets](https://github.com/andreaswf/nlp-emotion-classifier)

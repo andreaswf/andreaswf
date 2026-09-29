@@ -1,48 +1,15 @@
-# Hi 👋, I'm Andreas Fuglsang
-I'm a Data Scientist from Denmark, graduated at SDU during summer 2025.
-I have a passion for Machine Learning, AI and everything with data. Below are a few projects which I'm currently working on.
+# Andreas Fuglsang
 
+PhD student at the **Department of Oncology, Odense University Hospital**, working at the intersection of artificial intelligence, data science, and radiotherapy.
 
-## Projects
-### Large projects
-- [RAG - Ice Hockey rules assistant](https://github.com/andreaswf/ice-hockey-rule-helper)
-- [Hospital waiting times dashboard](https://github.com/andreaswf/hospital-visits-dashboard)
-    
-## Medium Projects
-- [NLP - Emotion Classifier of Tweets](https://github.com/andreaswf/nlp-emotion-classifier)
-- [Image Classification of Skin Lesions (TensorFlow)](https://github.com/andreaswf/skin-lesion-classification)
+My research focuses on developing scalable methods for **data curation, quality assurance, and outcome prediction in head and neck radiotherapy**. This includes machine learning for harmonisation and cleaning of multi-centre radiotherapy data, as well as predictive modelling using clinical and medical imaging data.
 
-## Small projects
-- [Movie recommendations (A KNN implementation)](https://github.com/andreaswf/movie-recommender)
-- [Image Classification with the Cats and Dogs dataset (PyTorch)](https://github.com/andreaswf/cat-dog-image-classifier)
-- [Ice Hockey Officiating Statistics (EDA)](https://github.com/andreaswf/ice-hockey-referee-stats)
+I hold an **MSc in Data Science** from the University of Southern Denmark (SDU).
 
+Outside research, I work as an ice hockey referee and enjoy running and strength training.
 
-## About me
-- Male
-- 29 years old
-- Master of Science (cand.scient.) in Data Science
-- Living in Odense 
-- Semi-professional ice hockey referee
-- Enyoy running and weight-lifting
+## Contact
 
+**Email:** andreas.wacher.fuglsang@rsyd.dk
 
-## Contact Information
-I can be reached on:
-andreaswf@hotmail.com
-
-
-<!--
-**andreaswf/andreaswf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Personal:** andreaswf@hotmail.com
